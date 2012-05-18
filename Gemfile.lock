@@ -123,7 +123,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
-  rails (= 3.2.3)
+  rails
   rspec (= 2.0.1)
   rspec-rails (= 2.0.1)
   sass-rails (~> 3.2.3)
